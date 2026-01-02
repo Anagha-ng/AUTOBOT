@@ -83,3 +83,10 @@ It combines sensor fusion, motor control, and modular design to perform navigati
 - Cloud logging of delivery paths and performance  
 - Mobile app with Firebase for user-side delivery requests, robot status, and notifications  
 - Expandable payload system  
+
+---
+
+## 👤 Team  
+
+- [Kaver S A](https://github.com/kaver06)  
+- [Anagha N G](https://github.com/Anagha-ng)  
