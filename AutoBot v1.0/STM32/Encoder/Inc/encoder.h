@@ -2,7 +2,7 @@
  * encoder.h
  *
  *  Created on: Oct 22, 2025
- *      Author: kaver
+ *     
  */
 
 #ifndef ENCODER_H
