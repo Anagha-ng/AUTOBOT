@@ -2,7 +2,7 @@
  * motor_control.c
  *
  *  Created on: Nov 2, 2025
- *      Author: kaver
+ *   
  */
 
 #include "motor_control.h"
