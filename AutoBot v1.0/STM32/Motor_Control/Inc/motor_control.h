@@ -2,7 +2,7 @@
  * motor_control.h
  *
  *  Created on: Nov 2, 2025
- *      Author: kaver
+ *    
  */
 
 #ifndef INC_MOTOR_CONTROL_H_
