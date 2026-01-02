@@ -2,7 +2,7 @@
  * battery_status.h
  *
  *  Created on: Oct 23, 2025
- *      Author: kaver
+ *
  */
 
 #ifndef INC_BATTERY_STATUS_H_
