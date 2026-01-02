@@ -2,7 +2,7 @@
  * ultrasonic.h
  *
  *  Created on: Oct 20, 2025
- *      Author: kaver
+ *      
  */
 
 #ifndef INC_ULTRASONIC_H_
